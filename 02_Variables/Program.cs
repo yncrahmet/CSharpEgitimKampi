@@ -106,16 +106,16 @@ namespace _02_Variables
             //Console.Write("Yolcu soyadı: ");
             //passengerSurname = Console.ReadLine();
 
-            //Console.WriteLine("İlçe bilgisi: ");
+            //Console.Write("İlçe bilgisi: ");
             //passengerDistrict = Console.ReadLine();
 
-            //Console.WriteLine("Şehir bilgisi: ");
+            //Console.Write("Şehir bilgisi: ");
             //passengerCity = Console.ReadLine();
 
-            //Console.WriteLine("Yolcu yaş: ");
+            //Console.Write("Yolcu yaş: ");
             //passengerAge = Console.ReadLine();
 
-            //Console.WriteLine("Yolcu TC Kimlik No: ");
+            //Console.Write("Yolcu TC Kimlik No: ");
             //passengerIdentityNumber = Console.ReadLine();
 
             //Console.WriteLine();
@@ -130,7 +130,63 @@ namespace _02_Variables
 
             //ABC120
 
+            //int shoesPrice, computerPrice, chairPrice, tvPrice;
 
+            //shoesPrice = 1000;
+            //computerPrice = 20000;
+            //chairPrice = 5000;
+            //tvPrice = 12000;
+
+            //int shoesCount, computerCount, chairCount, tvCount;
+
+            //Console.Write("Lütfen aldığınız ayakkabı sayısını giriniz: ");
+            //shoesCount = int.Parse(Console.ReadLine());
+
+            //Console.Write("Lütfen aldığınız bilgisayar sayısını giriniz: ");
+            //computerCount = int.Parse(Console.ReadLine());
+
+            //Console.Write("Lütfen aldığınız sandalye sayısını giriniz: ");
+            //chairCount = int.Parse(Console.ReadLine());
+
+            //Console.Write("Lütfen aldığınız televizyon sayısını giriniz: ");
+            //tvCount = int.Parse(Console.ReadLine());
+
+            //int totalPrice = shoesCount * shoesPrice + computerCount * computerPrice + chairPrice * chairCount + tvCount * tvPrice;
+
+            //Console.WriteLine();
+            //Console.OutputEncoding = Encoding.UTF8;
+            //Console.WriteLine("Toplam Ödemeniz Gereken Tutar: ₺"+totalPrice);
+
+            #endregion
+
+            #region Klavyeden Ondalıklı Sayı İşlemleri
+
+            //double examOne, examTwo, examThree, result;
+
+            //Console.Write("Lütfen 1. sınav notunu girin: ");
+            //examOne = double.Parse(Console.ReadLine());
+
+            //Console.Write("Lütfen 2. sınav notunu girin: ");
+            //examTwo = double.Parse(Console.ReadLine());
+
+            //Console.Write("Lütfen 3. sınav notunu girin: ");
+            //examThree = double.Parse(Console.ReadLine());
+
+            //result = (examOne + examTwo + examThree) / 3;
+
+            //Console.WriteLine();
+            //Console.WriteLine("Sınav ortalamanız: " + result);
+
+            #endregion
+
+            #region Klavyeden Karakter Girişleri
+
+            //char gender;
+
+            //Console.Write("Lütfen cinsiyet seçiniz: ");
+            //gender = char.Parse(Console.ReadLine());
+
+            //Console.WriteLine("Seçtiğiniz cinsiyet: " + gender);
 
             #endregion
 
